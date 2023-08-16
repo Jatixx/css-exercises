@@ -1,0 +1,17 @@
+
+.headline {
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  font: bold;
+}
+.text {
+  background-color: green;
+  color: white;
+  font-size: 18px;
+}
+.methode {
+  background-color: orange;
+  font-size: 18px;
+}
